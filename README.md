@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+As the Accessibility Team Lead (Accessibility SME for USAGov), I have over 20 years of combined experience in both federal and commercial sectors in Web Accessibility and Application Design (including website life cycle and usability, graphic design, and print production).
+
+
 <!--
 **davidstenger/davidstenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
